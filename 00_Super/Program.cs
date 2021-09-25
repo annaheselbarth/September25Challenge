@@ -27,7 +27,7 @@ namespace _00_Super
                 {
                     Console.WriteLine(letter);
                 }
-                else if(letter == 'L')
+                else if(letter == 'l')
                 {
                     Console.WriteLine(letter);
                 }
